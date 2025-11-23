@@ -8,9 +8,9 @@ services:
     startCommand: "gunicorn flask_trigger:app"
     autoDeploy: true
     envVars:
-      - key: TOKEN
+      - key: 8525986458:AAEMJePRyoVrT-myhIuOp2uA1jYXdLUmX7w
         sync: false
-      - key: CHAT_ID
+      - key: -1001535659036
         sync: false
-      - key: API_KEY
+      - key: AIzaSyB7vBBbvK1HSZPzGt1cxLuU1d0lQaHnpTg
         sync: false
